@@ -21,7 +21,7 @@ app.use(helmet());
 
 const allowedOrigins = [
     "http://localhost:5173",
-    "https://YOUR-FRONTEND-URL.vercel.app"
+    "https://job-tracker-beta-tawny.vercel.app"
 ];
 
 app.use(
